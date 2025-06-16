@@ -4,7 +4,7 @@ This project is a **real-time person detection and re-identification system** bu
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-success)
-![DeepFace](https://img.shields.io/badge/Face-Recognition-DeepFace-yellow)
+![FaceRecognition](https://img.shields.io/badge/Face-Recognition-DeepFace-yellow)
 
 ---
 
