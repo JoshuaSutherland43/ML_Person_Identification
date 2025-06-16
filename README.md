@@ -7,8 +7,9 @@ This project is a **real-time person detection and re-identification system** bu
 
 ---
 
-## 🎥 Demo
+## 🎥 Images
 
+![Screenshot 2025-06-16 232621](https://github.com/user-attachments/assets/c3592ec1-816e-43c8-95c9-495da1f124f1)
 
 
 ---
